@@ -114,7 +114,7 @@ VITE_API_URL=http://localhost:5000/api
 ---
 
 ## Project Structure
-src/
+```src/
 ├── api/
 │ └── axios.js # Axios instance — auto-attaches JWT to every request
 ├── components/
@@ -142,7 +142,7 @@ src/
 │ └── readingTime.js
 ├── App.jsx # Route definitions
 └── main.jsx # Entry point — wraps App in Router + Context providers
-
+```
 
 
 ---
