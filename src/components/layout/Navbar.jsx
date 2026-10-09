@@ -21,7 +21,7 @@ const themeToggleStyle = {
   return (
     <nav className="navbar">
       <Link to="/">
-        Hashnode
+        <strong>Hashnode</strong>
       </Link>
 
       <div className="navbar-links">
