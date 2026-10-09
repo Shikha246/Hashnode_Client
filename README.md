@@ -2,7 +2,7 @@
 
 > A developer-first blogging platform where developers write, format, and share technical content. This repository contains the **React frontend**. The Express/MongoDB API lives in the sibling `/server` folder.
 
-**Live demo:**[ https://your-app.vercel.app](https://hashnode-client.vercel.app/)
+**Live demo:**[Hashnode](https://hashnode-client.vercel.app/)
 **Backend repo/folder:** [`/server`](https://github.com/Shikha246/Hashnode_Server.git)
 
 ---
