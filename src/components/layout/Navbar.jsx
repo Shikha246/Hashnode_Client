@@ -21,7 +21,7 @@ const themeToggleStyle = {
   return (
     <nav className="navbar">
       <Link to="/">
-        <img src="./src/assets/logo.png" alt="logo" className="navbar-logo"/>
+        Hashnode
       </Link>
 
       <div className="navbar-links">
